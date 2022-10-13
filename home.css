@@ -42,6 +42,8 @@ a{
     flex-direction: row;
     flex-wrap: wrap;
 }
+/* css for if i frame tag */
+
 iframe{
 	margin-top: 30px;
 	margin-left: 50px;
